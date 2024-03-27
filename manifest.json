@@ -1,0 +1,23 @@
+{
+    "name": "SneakerFusion",
+    "short_name": "Shivani's App",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#232c5b",
+    "theme_color": "#000000",
+    "scope": ".",
+    "description": "Your ultimate destination for trendy sneakers!",
+    "icons": [
+      {
+        "src": "img/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
